@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=/opt/windscribe/Windscribe %F
+Name=Windscribe
+Icon=windscribe
+Categories=Utility;Security
+Comment=Browse the web privately as it was meant to be
+Path=
+StartupNotify=false

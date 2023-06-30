@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Espanso
+Exec=espanso launcher
+Icon=/home/plr/.icons/Mac-style-icons/esponso.png
+Type=Application
+Categories=Utility;
+Comment=A Privacy-first, Cross-platform Text Expander
+Path=
+Terminal=false
+StartupNotify=false

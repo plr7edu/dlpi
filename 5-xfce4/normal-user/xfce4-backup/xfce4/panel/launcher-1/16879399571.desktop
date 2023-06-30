@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Firefox Narsil-user.js 
+Comment=Firefox Narsil-user.js Profile
+Exec=/home/plr/bin/firefox -p Narsil-user.js
+Icon=firefox-trunk
+Path=
+Terminal=false
+StartupNotify=false

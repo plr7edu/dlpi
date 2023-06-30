@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="disable-struts" type="bool" value="false"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="icon-size" type="uint" value="16"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="7"/>
+        <value type="int" value="2"/>
+        <value type="int" value="3"/>
+        <value type="int" value="1"/>
+        <value type="int" value="4"/>
+        <value type="int" value="5"/>
+        <value type="int" value="15"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="6"/>
+        <value type="int" value="14"/>
+        <value type="int" value="11"/>
+        <value type="int" value="12"/>
+      </property>
+      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="size" type="uint" value="30"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.066666666666666666"/>
+        <value type="double" value="0.066666666666666666"/>
+        <value type="double" value="0.066666666666666666"/>
+        <value type="double" value="1"/>
+      </property>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="clipman" type="empty">
+      <property name="tweaks" type="empty">
+        <property name="inhibit" type="bool" value="false"/>
+      </property>
+    </property>
+    <property name="plugin-11" type="string" value="separator"/>
+    <property name="plugin-12" type="string" value="clock">
+      <property name="digital-format" type="string" value="%I:%M "/>
+      <property name="mode" type="uint" value="4"/>
+      <property name="timezone" type="string" value="Asia/Colombo"/>
+      <property name="digital-time-format" type="string" value="%I:%M "/>
+      <property name="digital-layout" type="uint" value="3"/>
+      <property name="show-military" type="bool" value="false"/>
+      <property name="show-seconds" type="bool" value="false"/>
+      <property name="flash-separators" type="bool" value="false"/>
+      <property name="show-meridiem" type="bool" value="false"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pager"/>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-7" type="string" value="whiskermenu"/>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="blacklisted-players" type="string" value=""/>
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="audacious;chromium.instance10235;chromium.instance10682;chromium.instance12021;chromium.instance2868;chromium.instance33270;chromium.instance45964;chromium.instance70953;chromium.instance87398;firefox.instance10098;firefox.instance10176;firefox.instance10253;firefox.instance106124;firefox.instance112305;firefox.instance11231;firefox.instance11400;firefox.instance11493;firefox.instance11826;firefox.instance12079;firefox.instance12108;firefox.instance122744;firefox.instance1242;firefox.instance12425;firefox.instance12451;firefox.instance12548;firefox.instance12637;firefox.instance12710;firefox.instance1312;firefox.instance1330;firefox.instance14333;firefox.instance14674;firefox.instance14722;firefox.instance15447;firefox.instance16129;firefox.instance16311;firefox.instance17429;firefox.instance17555;firefox.instance1802;firefox.instance1815;firefox.instance18196;firefox.instance18469;firefox.instance1877;firefox.instance18808;firefox.instance19121;firefox.instance1915;firefox.instance19402;firefox.instance1941;firefox.instance1942;firefox.instance1955;firefox.instance19610;firefox.instance1978;firefox.instance1991;firefox.instance1997;firefox.instance1999;firefox.instance2001;firefox.instance2005;firefox.instance2006;firefox.instance2015;firefox.instance2020;firefox.instance2023;firefox.instance2025;firefox.instance2026;firefox.instance2028;firefox.instance2031;firefox.instance2033;firefox.instance2037;firefox.instance2041;firefox.instance2043;firefox.instance2046;firefox.instance2047;firefox.instance2057;firefox.instance2058;firefox.instance2061;firefox.instance2069;firefox.instance2073;firefox.instance2080;firefox.instance2084;firefox.instance2089;firefox.instance2090;firefox.instance2091;firefox.instance2100;firefox.instance2101;firefox.instance2104;firefox.instance21143;firefox.instance2116;firefox.instance2119;firefox.instance2122;firefox.instance2124;firefox.instance2130;firefox.instance2134;firefox.instance2135;firefox.instance2149;firefox.instance2150;firefox.instance2156;firefox.instance2165;firefox.instance2167;firefox.instance2171;firefox.instance2176;firefox.instance2177;firefox.instance2178;firefox.instance2181;firefox.instance2183;firefox.instance2184;firefox.instance2185;firefox.instance2188;firefox.instance2189;firefox.instance2200;firefox.instance2201;firefox.instance2204;firefox.instance2208;firefox.instance2209;firefox.instance2212;firefox.instance2216;firefox.instance2217;firefox.instance2219;firefox.instance2222;firefox.instance2224;firefox.instance2225;firefox.instance2226;firefox.instance2229;firefox.instance2230;firefox.instance2231;firefox.instance2233;firefox.instance2235;firefox.instance2236;firefox.instance2237;firefox.instance2239;firefox.instance2240;firefox.instance2241;firefox.instance2243;firefox.instance2244;firefox.instance2246;firefox.instance2248;firefox.instance2251;firefox.instance2252;firefox.instance2254;firefox.instance2255;firefox.instance2256;firefox.instance2258;firefox.instance2259;firefox.instance2260;firefox.instance2261;firefox.instance2263;firefox.instance2264;firefox.instance2265;firefox.instance2266;firefox.instance2268;firefox.instance2269;firefox.instance2273;firefox.instance2275;firefox.instance2277;firefox.instance22780;firefox.instance2279;firefox.instance2282;firefox.instance2283;firefox.instance2284;firefox.instance2286;firefox.instance2287;firefox.instance22875;firefox.instance2289;firefox.instance2294;firefox.instance2296;firefox.instance2301;firefox.instance2302;firefox.instance2303;firefox.instance2304;firefox.instance2306;firefox.instance2311;firefox.instance2320;firefox.instance2323;firefox.instance2327;firefox.instance2330;firefox.instance2331;firefox.instance2338;firefox.instance2339;firefox.instance2345;firefox.instance23463;firefox.instance2359;firefox.instance2368;firefox.instance2370;firefox.instance2371;firefox.instance2374;firefox.instance2378;firefox.instance2379;firefox.instance2387;firefox.instance2400;firefox.instance2401;firefox.instance2413;firefox.instance2431;firefox.instance2434;firefox.instance2452;firefox.instance2454;firefox.instance2462;firefox.instance24633;firefox.instance2480;firefox.instance24829;firefox.instance2488;firefox.instance2504;firefox.instance25138;firefox.instance2524;firefox.instance2536;firefox.instance2572;firefox.instance2573;firefox.instance2586;firefox.instance2588;firefox.instance2592;firefox.instance2621;firefox.instance2659;firefox.instance2673;firefox.instance26908;firefox.instance2703;firefox.instance2731;firefox.instance2741;firefox.instance27491;firefox.instance27955;firefox.instance2846;firefox.instance2894;firefox.instance2912;firefox.instance2917;firefox.instance2932;firefox.instance2992;firefox.instance30053;firefox.instance3008;firefox.instance3010;firefox.instance3089;firefox.instance3158;firefox.instance3186;firefox.instance3270;firefox.instance3275;firefox.instance3302;firefox.instance33071;firefox.instance33483;firefox.instance3356;firefox.instance33895;firefox.instance3464;firefox.instance34742;firefox.instance3585;firefox.instance35894;firefox.instance3632;firefox.instance3644;firefox.instance3648;firefox.instance36668;firefox.instance36755;firefox.instance3705;firefox.instance3773;firefox.instance3829;firefox.instance39708;firefox.instance4033;firefox.instance40457;firefox.instance4073;firefox.instance4144;firefox.instance4215;firefox.instance4217;firefox.instance4450;firefox.instance4699;firefox.instance4700;firefox.instance47047;firefox.instance4717;firefox.instance4750;firefox.instance4877;firefox.instance4878;firefox.instance5234;firefox.instance5572;firefox.instance5578;firefox.instance5610;firefox.instance5612;firefox.instance5618;firefox.instance5625;firefox.instance5639;firefox.instance57763;firefox.instance5833;firefox.instance5906;firefox.instance6371;firefox.instance6536;firefox.instance6910;firefox.instance7125;firefox.instance7277;firefox.instance7312;firefox.instance795;firefox.instance8167;firefox.instance830;firefox.instance834;firefox.instance8395;firefox.instance843;firefox.instance844;firefox.instance8497;firefox.instance8533;firefox.instance857;firefox.instance8640;firefox.instance8695;firefox.instance8834;firefox.instance9262;firefox.instance9632;smplayer;spotify;strawberry;vlc"/>
+      <property name="show-notifications" type="bool" value="true"/>
+    </property>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-6" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16746374451.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="flat-buttons" type="bool" value="false"/>
+      <property name="show-handle" type="bool" value="true"/>
+      <property name="show-tooltips" type="bool" value="true"/>
+      <property name="show-labels" type="bool" value="true"/>
+      <property name="grouping" type="bool" value="true"/>
+    </property>
+    <property name="plugin-1" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16796386251.desktop"/>
+        <value type="string" value="16781911823.desktop"/>
+        <value type="string" value="16783526301.desktop"/>
+        <value type="string" value="16879399571.desktop"/>
+      </property>
+      <property name="move-first" type="bool" value="true"/>
+      <property name="show-label" type="bool" value="false"/>
+      <property name="disable-tooltips" type="bool" value="false"/>
+    </property>
+    <property name="plugin-14" type="string" value="notification-plugin"/>
+    <property name="plugin-15" type="string" value="systray">
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “subnet mask” active: subnet mask (55%)"/>
+        <value type="string" value="wi-fi network connection “subnet mask” active: subnet mask (50%)"/>
+        <value type="string" value="wi-fi network connection “subnet mask” active: subnet mask (49%)"/>
+        <value type="string" value="wi-fi network connection “subnet mask” active: subnet mask (56%)"/>
+        <value type="string" value="stardict"/>
+        <value type="string" value="wi-fi network connection “subnet mask” active: subnet mask (58%)"/>
+        <value type="string" value="no network connection"/>
+        <value type="string" value="wi-fi network connection “plr_wifi” active: plr_wifi (70%)"/>
+        <value type="string" value="javaembeddedframe"/>
+        <value type="string" value="wi-fi network connection “plr_wifi” active: plr_wifi (80%)"/>
+        <value type="string" value="wi-fi network connection “subnet mask” active: subnet mask (57%)"/>
+        <value type="string" value="wi-fi network connection “subnet mask” active: subnet mask (60%)"/>
+        <value type="string" value="wi-fi network connection “subnet mask” active: subnet mask (75%)"/>
+        <value type="string" value="wi-fi network connection “subnet mask” active: subnet mask (67%)"/>
+        <value type="string" value="wi-fi network connection “subnet mask” active: subnet mask (71%)"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="wi-fi network connection “plr_wifi” active: plr_wifi (77%)"/>
+        <value type="string" value="wi-fi network connection “plr_wifi” active: plr_wifi (76%)"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="vlc"/>
+      </property>
+    </property>
+  </property>
+</channel>

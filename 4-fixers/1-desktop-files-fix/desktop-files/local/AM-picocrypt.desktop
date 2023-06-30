@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=picocrypt
+Exec=picocrypt
+Icon=/opt/picocrypt/icons/picocrypt
+Categories=Utility
+Comment=A very small, very simple, yet very secure encryption tool. 
+Path=
+StartupNotify=false
