@@ -1,0 +1,55 @@
+[Desktop Entry]
+Name=AppImageUpdate
+Type=Application
+Icon=appimagekit_38586a86b691d017e10da40ae7e94d4b_appimage
+Exec=/home/plr/Applications/AppImageUpdate-x86_64_4c9f3c4642e5908a68e0a212660ee7dd.AppImage
+Comment=Update applications distributed in AppImage format
+Categories=Utility;
+X-AppImage-Version=152-496a69e
+
+TryExec=/home/plr/Applications/AppImageUpdate-x86_64_4c9f3c4642e5908a68e0a212660ee7dd.AppImage
+X-AppImage-Old-Icon=appimage
+X-AppImage-Old-Name=AppImageUpdate
+X-AppImage-Identifier=38586a86b691d017e10da40ae7e94d4b
+Actions=Remove;Update;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2020-09-29 21:36:15 UTC
+
+Path=
+Terminal=false
+StartupNotify=false
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/plr/Applications/AppImageUpdate-x86_64_4c9f3c4642e5908a68e0a212660ee7dd.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage
+
+[Desktop Action Update]
+Name=Update AppImage
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/update "/home/plr/Applications/AppImageUpdate-x86_64_4c9f3c4642e5908a68e0a212660ee7dd.AppImage"
+Name[ast]=Anovar AppImage
+Name[cs]=Aktualizovat AppImage
+Name[de]=AppImage aktualisieren
+Name[en]=Update AppImage
+Name[es]=Actualizar Appimage
+Name[fr]=Mettre à jour l'AppImage
+Name[it]=Aggiorna AppImage
+Name[nl]=AppImage bijwerken
+Name[pl]=Uaktualnij AppImage
+Name[pt]=Actualizar AppImage
+Name[pt_PT]=Atualizar AppImage
+Name[ru]=Обновить AppImage
+Name[zh_Hans]=更新 AppImage

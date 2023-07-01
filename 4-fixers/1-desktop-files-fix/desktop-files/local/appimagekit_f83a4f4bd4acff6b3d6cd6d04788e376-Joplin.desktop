@@ -1,0 +1,39 @@
+[Desktop Entry]
+Name=Joplin (2.11.11)
+Exec=/home/plr/Applications/Joplin-2.11.11_a2ea4eef8ed52093755deed7d739cc3c.AppImage --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=joplin
+StartupWMClass=Joplin
+X-AppImage-Version=2.11.11
+MimeType=x-scheme-handler/joplin;
+Comment=Joplin for Desktop
+Categories=Office;
+
+TryExec=/home/plr/Applications/Joplin-2.11.11_a2ea4eef8ed52093755deed7d739cc3c.AppImage
+X-AppImage-Old-Icon=joplin
+X-AppImage-Old-Name=Joplin
+X-AppImage-Identifier=f83a4f4bd4acff6b3d6cd6d04788e376
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2020-09-29 21:36:15 UTC
+
+Path=
+StartupNotify=false
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/plr/Applications/Joplin-2.11.11_a2ea4eef8ed52093755deed7d739cc3c.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

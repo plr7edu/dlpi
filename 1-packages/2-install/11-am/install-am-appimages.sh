@@ -19,12 +19,10 @@ echo "Install Appimages with AM"
 echo "################################################################"
 echo;tput sgr0
 
-am -i libreoffice &&
 am -i picocrypt &&
 am -i etcher &&
 am -i espanso &&
 am -i ventoy &&
-am -i joplin &&
 
 tput setaf 2;
 echo "################################################################"

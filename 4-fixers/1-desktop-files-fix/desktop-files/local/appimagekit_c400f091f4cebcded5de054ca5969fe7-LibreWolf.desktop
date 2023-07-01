@@ -1,0 +1,69 @@
+[Desktop Entry]
+Name=LibreWolf (Mails)
+Exec=/home/plr/Applications/LibreWolf.x86_64_c541b9d46f866f6485ab42133eaa626e.AppImage %u
+Icon=appimagekit_c400f091f4cebcded5de054ca5969fe7_librewolf
+Type=Application
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;application/x-xpinstall;application/pdf;application/json;
+StartupWMClass=LibreWolf
+Categories=Network;WebBrowser;
+StartupNotify=true
+Terminal=false
+X-MultipleArgs=false
+Keywords=Internet;WWW;Browser;Web;Explorer;
+Actions=Remove;Update;
+
+TryExec=/home/plr/Applications/LibreWolf.x86_64_c541b9d46f866f6485ab42133eaa626e.AppImage
+X-AppImage-Old-Icon=librewolf
+X-AppImage-Identifier=c400f091f4cebcded5de054ca5969fe7
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2020-09-29 21:36:15 UTC
+
+Comment=A custom and independent version of Firefox, with the primary goals of privacy
+Path=
+
+[Desktop Action new-window]
+Name=Open a New Window
+Exec=/home/plr/Applications/LibreWolf.x86_64_c541b9d46f866f6485ab42133eaa626e.AppImage %u
+
+[Desktop Action new-private-window]
+Name=Open a New Private Window
+Exec=/home/plr/Applications/LibreWolf.x86_64_c541b9d46f866f6485ab42133eaa626e.AppImage --private-window %u
+
+[Desktop Action profilemanager]
+Name=Open the Profile Manager
+Exec=/home/plr/Applications/LibreWolf.x86_64_c541b9d46f866f6485ab42133eaa626e.AppImage --ProfileManager %u
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/plr/Applications/LibreWolf.x86_64_c541b9d46f866f6485ab42133eaa626e.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage
+
+[Desktop Action Update]
+Name=Update AppImage
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/update "/home/plr/Applications/LibreWolf.x86_64_c541b9d46f866f6485ab42133eaa626e.AppImage"
+Name[ast]=Anovar AppImage
+Name[cs]=Aktualizovat AppImage
+Name[de]=AppImage aktualisieren
+Name[en]=Update AppImage
+Name[es]=Actualizar Appimage
+Name[fr]=Mettre à jour l'AppImage
+Name[it]=Aggiorna AppImage
+Name[nl]=AppImage bijwerken
+Name[pl]=Uaktualnij AppImage
+Name[pt]=Actualizar AppImage
+Name[pt_PT]=Atualizar AppImage
+Name[ru]=Обновить AppImage
+Name[zh_Hans]=更新 AppImage
