@@ -140,6 +140,7 @@ lightdm-gtk-greeter-settings
 ueberzug
 zsync
 lf
+pipx
 
 
 #Fonts-----------------------------------------------------------------------
