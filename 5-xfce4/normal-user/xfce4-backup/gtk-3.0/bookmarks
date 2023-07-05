@@ -1,3 +1,4 @@
+file:///home/plr/Applications
 file:///home/plr/Documents
 file:///home/plr/Music
 file:///home/plr/Pictures
@@ -9,7 +10,7 @@ file:///home/plr/bin
 file:///home/plr/.local/bin .local/bin
 file:///home/plr/.config
 file:///home/plr/.local
-file:///home/plr/Downloads/My-data
+file:///home/plr/Documents/syncthing-data/my-data
 file:///home/plr/Documents/obsidian
 file:///home/plr/My-Repos/plr-dlpi
 file:///home/plr/My-Repos

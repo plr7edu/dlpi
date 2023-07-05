@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,xfce4-terminal-emulator.desktop
-recent=kvantummanager.desktop,xfce4-file-manager.desktop,gparted.desktop,AM-picocrypt.desktop,menulibre.desktop,org.strawberrymusicplayer.strawberry.desktop,AM-joplin.desktop,AM-librewolf.desktop,com.belmoussaoui.Authenticator.desktop,xfce4-mime-settings.desktop
+recent=qt5ct.desktop,kvantummanager.desktop,filezilla.desktop,org.strawberrymusicplayer.strawberry.desktop,org.qbittorrent.qBittorrent.desktop,org.freedesktop.IBus.Setup.desktop,start-tor-browser.desktop,org.xfce.mousepad.desktop,conky.desktop,xdm-app.desktop
 button-title=
 button-icon=emblem-debian-white
 button-single-row=false

@@ -24,5 +24,6 @@
     <property name="general-notification" type="bool" value="true"/>
     <property name="lid-action-on-battery" type="uint" value="1"/>
     <property name="inactivity-on-battery" type="uint" value="14"/>
+    <property name="hibernate-button-action" type="uint" value="0"/>
   </property>
 </channel>

@@ -1,24 +1,20 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/plr/Desktop/CompTIA ITF+ Training]
-row=2
-col=17
-
-[/home/plr/Desktop/AM-picocrypt.desktop]
-row=3
-col=0
+[/home/plr/Desktop/Tech]
+row=0
+col=1
 
 [/home/plr/Desktop/Full Stack]
 row=1
 col=17
 
+[/home/plr/Desktop/CompTIA ITF+ (Exam FCO-U61)]
+row=2
+col=17
+
 [CEB8CFF6B8CFDADB]
 row=1
-col=0
-
-[3DA8-A194]
-row=2
 col=0
 
 [Trash]
