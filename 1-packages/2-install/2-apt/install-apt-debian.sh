@@ -134,6 +134,7 @@ alacritty
 strawberry
 nextcloud-desktop
 ghostwriter
+qt5ct
 qt5-style-kvantum
 qt5-style-kvantum-themes
 lightdm-gtk-greeter-settings
@@ -141,7 +142,8 @@ ueberzug
 zsync
 lf
 pipx
-
+debian-reference
+gvfs
 
 #Fonts-----------------------------------------------------------------------
 fonts-noto 
