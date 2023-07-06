@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,xfce4-terminal-emulator.desktop
-recent=qt5ct.desktop,kvantummanager.desktop,filezilla.desktop,org.strawberrymusicplayer.strawberry.desktop,org.qbittorrent.qBittorrent.desktop,org.freedesktop.IBus.Setup.desktop,start-tor-browser.desktop,org.xfce.mousepad.desktop,conky.desktop,xdm-app.desktop
+recent=filezilla.desktop,remote-viewer.desktop,xfce-session-settings.desktop,org.gnome.seahorse.Application.desktop,org.keepassxc.KeePassXC.desktop,synaptic.desktop,start-tor-browser.desktop,debian-reference-common.desktop,xfce4-mime-settings.desktop,mpv.desktop
 button-title=
 button-icon=emblem-debian-white
 button-single-row=false
