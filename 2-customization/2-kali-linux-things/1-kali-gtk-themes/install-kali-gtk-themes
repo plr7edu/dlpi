@@ -1,9 +1,0 @@
-#!/bin/bash
-
-tput bold
-echo -e "\e[1;34mCopy kali gtk themes ...\e[1;37m";
-tput sgr0
-sudo cp -R themes/* /usr/share/themes/
-
-
-
