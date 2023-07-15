@@ -25,14 +25,15 @@ echo;tput sgr0
 
 #Backup orginal config
 cd $config_dir
-sudo cp hardinfo.desktop hardinfo.desktop.bak && 
-sudo cp gparted.desktop gparted.desktop.bak && 
-sudo cp ca.desrt.dconf-editor.desktop ca.desrt.dconf-editor.desktop.bak &&
-sudo cp mintstick-format.desktop mintstick-format.desktop.backup &&
-sudo cp org.gnome.DiskUtility.desktop org.gnome.DiskUtility.desktop.backup &&
-sudo cp org.gnome.FontManager.desktop org.gnome.FontManager.desktop.backup &&
-sudo cp qt5ct.desktop qt5ct.desktop.backup &&
-sudo cp timeshift-gtk.desktop timeshift-gtk.desktop.backup &&
+sudo cp hardinfo.desktop hardinfo.desktop.bak &&                                     #1
+sudo cp gparted.desktop gparted.desktop.bak && 										 #2
+sudo cp ca.desrt.dconf-editor.desktop ca.desrt.dconf-editor.desktop.bak &&			 #3
+sudo cp mintstick-format.desktop mintstick-format.desktop.backup &&					 #4
+sudo cp org.gnome.DiskUtility.desktop org.gnome.DiskUtility.desktop.backup &&		 #5
+sudo cp org.gnome.FontManager.desktop org.gnome.FontManager.desktop.backup &&		 #6
+sudo cp qt5ct.desktop qt5ct.desktop.backup &&										 #7
+sudo cp timeshift-gtk.desktop timeshift-gtk.desktop.backup &&						 #8
+sudo cp grub-customizer.desktop grub-customizer.desktop.backup &&                    #9
 echo "Backup Complete."
 echo " "
 
