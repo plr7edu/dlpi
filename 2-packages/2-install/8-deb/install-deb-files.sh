@@ -124,6 +124,15 @@ echo;tput sgr0
 sudo gdebi -n *megasync*
 echo ""
 
+tput setaf 3;
+echo ""
+echo "Install Video DownloadHelper Companion App"
+echo ""
+echo;tput sgr0
+
+sudo gdebi -n *net.downloadhelper*
+echo ""
+
 sudo apt update &&
 sudo apt install protonvpn -y
 

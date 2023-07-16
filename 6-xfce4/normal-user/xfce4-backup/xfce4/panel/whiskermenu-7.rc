@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,xfce4-terminal-emulator.desktop
-recent=AM-ventoy.desktop,org.cryptomator.Cryptomator.desktop,md.obsidian.Obsidian.desktop,android-file-transfer.desktop,org.gnome.FontViewer.desktop,org.gnome.FontManager.desktop,org.gnome.DiskUtility.desktop,gufw.desktop,gparted.desktop,mintstick-format.desktop
+recent=org.gnome.FontManager.desktop,virt-manager.desktop,syncthing-ui.desktop,syncthing-start.desktop,grub-customizer.desktop,xfce4-terminal-emulator.desktop,org.telegram.desktop._aad6216ed0f2fd8d151bffc653c140a7.desktop,signal-desktop.desktop,windscribe.desktop,com.bitwarden.desktop.desktop
 button-title=
 button-icon=emblem-debian-white
 button-single-row=false

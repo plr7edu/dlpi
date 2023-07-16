@@ -1,6 +1,7 @@
 ; Thunar GtkAccelMap rc-file         -*- scheme -*-
 ; this file is an automated accelerator map dump
 ;
+; (gtk_accel_path "<Actions>/ThunarBookmarks/0add7542a0492981793b7b99ead3f1c7" "")
 ; (gtk_accel_path "<Actions>/ThunarBookmarks/9a221357433a310bbf9bb8ffdf3af8d5" "")
 ; (gtk_accel_path "<Actions>/ThunarBookmarks/71435ff974059f5feeb739a3c0b8c13f" "")
 ; (gtk_accel_path "<Actions>/ThunarBookmarks/943f5285b30cc579a03c2c011e254c09" "")
@@ -38,7 +39,6 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/zoom-out-alt" "<Primary>minus")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-file-menu" "F10")
 ; (gtk_accel_path "<Actions>/ThunarWindow/contents" "F1")
-; (gtk_accel_path "<Actions>/ThunarBookmarks/5a83d8ea3e409b78ebaff2a3560c8c5d" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/show-highlight" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/sort-descending" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/sort-by-name" "")
@@ -102,6 +102,7 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-location" "<Primary>l")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-as-compact-list" "<Primary>3")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-menu" "")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/3c812520d3ae8700a7baaff731cd3f93" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/search" "<Primary>f")
 ; (gtk_accel_path "<Actions>/ThunarWindow/new-tab" "<Primary>t")
 ; (gtk_accel_path "<Actions>/ThunarBookmarks/744d02e9b39b28439e3a1067108e4890" "")
@@ -133,12 +134,10 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-side-pane-tree" "<Primary>e")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-file-system" "")
 ; (gtk_accel_path "<Actions>/ThunarBookmarks/e0fe883303f207278c33841484889284" "")
-; (gtk_accel_path "<Actions>/ThunarBookmarks/8bae453b08ee8d70043c156299a5b005" "")
 ; (gtk_accel_path "<Actions>/ThunarActionManager/sendto-desktop" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/make-link" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/about" "")
-; (gtk_accel_path "<Actions>/ThunarBookmarks/5c1c7ffd6ec3b9170d12e68937e0be19" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/zoom-reset-alt" "<Primary>0")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/5c1c7ffd6ec3b9170d12e68937e0be19" "")
 ; (gtk_accel_path "<Actions>/ThunarBookmarks/6e1dbc036a36cd2e5c5fa889ac1c591d" "")
-; (gtk_accel_path "<Actions>/ThunarBookmarks/9cb2400567688b4a0324b1798b18d6db" "")
 ; (gtk_accel_path "<Actions>/ThunarBookmarks/31a895f268c755027c99075381eca400" "")
