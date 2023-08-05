@@ -133,6 +133,15 @@ echo;tput sgr0
 sudo gdebi -n *net.downloadhelper*
 echo ""
 
+tput setaf 3;
+echo ""
+echo "Install Virtualbox"
+echo ""
+echo;tput sgr0
+
+sudo gdebi -n *virtualbox*
+echo ""
+
 sudo apt update &&
 sudo apt install protonvpn -y
 
